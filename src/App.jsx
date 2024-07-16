@@ -8,8 +8,12 @@ const App = () => {
   return (
     <>
       <Navbar/>
+      <main className='main_container'>
       <ContactHeader/>
       <ContactForm/>
+      </main>
+
+      
     </>
   )
 }

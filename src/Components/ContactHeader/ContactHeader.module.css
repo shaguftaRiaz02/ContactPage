@@ -1,6 +1,9 @@
 :root{
     --gray : gray;
 }
+.contact_section{
+  margin-left: 20cap;
+}
 .contact_section h1{
   font-size: 48px;
   font-weight: 800;
@@ -8,6 +11,6 @@
 .contact_section p{
   font-size: 16px;
   font-weight: 500;
-  max-width: 975px;
+  max-width: 905px;
   color: var(--gray);
 }
